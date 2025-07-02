@@ -28,7 +28,7 @@ dependencies:
 ## 📦 Import the Package
 
 ```dart
-import 'package:bottom_bar/bottom_bar.dart';
+import 'package:good_dismissable/good_dismissable.dart';
 ```
 
 ## 📦 Example
