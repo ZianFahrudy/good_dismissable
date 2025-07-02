@@ -1,3 +1,3 @@
-## [1.0.0] - 02.07.2025
+## 1.0.0
 
-- Initial release of good_dismissable
+- Initial release
